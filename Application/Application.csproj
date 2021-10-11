@@ -14,5 +14,13 @@
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Services\" />
+    <Folder Include="Security\" />
+  </ItemGroup>
   
 </Project>
